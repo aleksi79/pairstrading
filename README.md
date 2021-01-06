@@ -1,0 +1,2 @@
+# pairstrading
+Pairs trading project
