@@ -6,9 +6,10 @@ Pairs trading project that finds cointegrated pairs, runs simple optimization an
 Program is still a work in progress so use it for educational purposes only.
 
 Future plans:
+- Using rolling linear regression (OLS) in hedge ratio and spread calculation
 - Better back-tester with "real life" trades
 - Better optimizer: profit factor etc.
 - List of trades with open & close prices, trade sizes, dates, duration etc.
-- Commissions & fees
+- Add commissions, fees and bid/ask-spread into backtesting
 - Portfolio testing
 - Live trading
